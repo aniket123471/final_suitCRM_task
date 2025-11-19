@@ -1,0 +1,51 @@
+Tue Nov 18 17:03:02 2025 [7620][1][SECURITY] OutboundEmail::checkSavePermissions - not logged in - skipping check
+Tue Nov 18 17:03:02 2025 [7620][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Tue Nov 18 17:03:02 2025 [7620][1][FATAL] Email address save error
+Tue Nov 18 17:03:21 2025 [7620][1][FATAL] User update error: Temp User is not retrieved at ID seed_jim_id, boolean given
+Tue Nov 18 17:03:21 2025 [7620][1][FATAL] Email address save error
+Tue Nov 18 17:03:21 2025 [7620][1][FATAL] User update error: Temp User is not retrieved at ID seed_sarah_id, boolean given
+Tue Nov 18 17:03:21 2025 [7620][1][FATAL] Email address save error
+Tue Nov 18 17:03:21 2025 [7620][1][FATAL] User update error: Temp User is not retrieved at ID seed_sally_id, boolean given
+Tue Nov 18 17:03:21 2025 [7620][1][FATAL] Email address save error
+Tue Nov 18 17:03:22 2025 [7620][1][FATAL] User update error: Temp User is not retrieved at ID seed_max_id, boolean given
+Tue Nov 18 17:03:22 2025 [7620][1][FATAL] Email address save error
+Tue Nov 18 17:03:22 2025 [7620][1][FATAL] User update error: Temp User is not retrieved at ID seed_will_id, boolean given
+Tue Nov 18 17:03:22 2025 [7620][1][FATAL] Email address save error
+Tue Nov 18 17:03:22 2025 [7620][1][FATAL] User update error: Temp User is not retrieved at ID seed_chris_id, boolean given
+Tue Nov 18 17:03:22 2025 [7620][1][FATAL] Email address save error
+Tue Nov 18 17:05:58 2025 [7620][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Tue Nov 18 17:05:58 2025 [7620][1][SECURITY] Setting logger_file_ext to '.log'.
+Tue Nov 18 17:05:58 2025 [7620][1][SECURITY] Setting logger_file_name to ''.
+Tue Nov 18 17:05:58 2025 [7620][1][SECURITY] Log file extension can't be blank.
+Tue Nov 18 17:05:58 2025 [7620][1][SECURITY] Setting logger_file_name to ''.
+Tue Nov 18 17:05:58 2025 [7620][1][SECURITY] Log file extension can't be blank.
+Tue Nov 18 17:28:47 2025 [7620][1][FATAL] Email address save error
+Tue Nov 18 17:31:34 2025 [18188][1][FATAL] ############## daily Accounts report job started ###############
+Tue Nov 18 17:31:34 2025 [18188][1][FATAL] Acount created today = 50
+Tue Nov 18 17:31:34 2025 [18188][1][FATAL] ############## daily Accounts report job end ###############
+Tue Nov 18 17:32:13 2025 [9716][1][FATAL] ############## daily Accounts report job started ###############
+Tue Nov 18 17:32:13 2025 [9716][1][FATAL] Acount created today = 50
+Tue Nov 18 17:32:13 2025 [9716][1][FATAL] ############## daily Accounts report job end ###############
+Tue Nov 18 17:40:39 2025 [26356][1][FATAL] ############## daily Accounts report job started ###############
+Tue Nov 18 17:40:39 2025 [26356][1][FATAL] Acount created today = 50
+Tue Nov 18 17:40:39 2025 [26356][1][FATAL] ############## daily Accounts report job end ###############
+Tue Nov 18 17:40:39 2025 [26356][1][FATAL] ############## daily leads report job started ###############
+Tue Nov 18 17:40:39 2025 [26356][1][FATAL] More than 5 leads created today. total leads created today are = 200
+Tue Nov 18 17:40:39 2025 [26356][1][FATAL] Acount created today = 200
+Tue Nov 18 17:40:39 2025 [26356][1][FATAL] ############## daily leads report job end ###############
+Tue Nov 18 17:41:42 2025 [26284][1][FATAL] ############## daily Accounts report job started ###############
+Tue Nov 18 17:41:42 2025 [26284][1][FATAL] Acount created today = 50
+Tue Nov 18 17:41:42 2025 [26284][1][FATAL] ############## daily Accounts report job end ###############
+Tue Nov 18 17:41:42 2025 [26284][1][FATAL] ############## daily leads report job started ###############
+Tue Nov 18 17:41:42 2025 [26284][1][FATAL] More than 5 leads created today. total leads created today are = 200
+Tue Nov 18 17:41:42 2025 [26284][1][FATAL] Acount created today = 200
+Tue Nov 18 17:41:42 2025 [26284][1][FATAL] ############## daily leads report job end ###############
+Tue Nov 18 17:42:00 2025 [24040][1][FATAL] Job runs too frequently, throttled to protect the system.
+Wed Nov 19 04:13:13 2025 [22876][1][FATAL] ############## daily Accounts report job started ###############
+Wed Nov 19 04:13:13 2025 [22876][1][FATAL] Acount created today = 0
+Wed Nov 19 04:13:13 2025 [22876][1][FATAL] ############## daily Accounts report job end ###############
+Wed Nov 19 04:13:13 2025 [22876][1][FATAL] ############## daily leads report job started ###############
+Wed Nov 19 04:13:13 2025 [22876][1][FATAL] Acount created today = 0
+Wed Nov 19 04:13:13 2025 [22876][1][FATAL] ############## daily leads report job end ###############
+Wed Nov 19 04:31:42 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 04:31:42 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: ImportNew

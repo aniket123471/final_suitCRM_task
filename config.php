@@ -293,7 +293,7 @@ $sugar_config = array (
     'l s f' => 'l s f',
     'l f s' => 'l f s',
   ),
-  'oauth2_encryption_key' => 's6PTFBkr4ZGzONI3MB20ipdiD+dhhIafSfiUCPyyeL0=',
+  'oauth2_encryption_key' => 'SnAXPKy2hU/EGtj+4QGiPD7FCPxwstaLy9pg0sxszbw=',
   'passwordsetting' => 
   array (
     'SystemGeneratedPasswordON' => '',

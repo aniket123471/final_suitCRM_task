@@ -2,6 +2,15 @@
  //WARNING: The contents of this file are auto-generated
 
 
+$dictionary['Lead']['fields']['followup_date'] = [
+    'name' => 'followup_date',
+    'vname' => 'LBL_FOLLOWUP_DATE',
+    'type' => 'date',
+    'audited' => true,
+    'required' => false,
+];
+
+
  // created: 2025-11-18 17:03:07
 $dictionary['Lead']['fields']['jjwg_maps_address_c']['inline_edit']=1;
 

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.5.5, created on 2025-11-19 04:31:18
+/* Smarty version 4.5.5, created on 2025-11-21 06:04:59
   from 'C:\wamp64\www\final_test_suiteCRM\themes\SuiteP\include\ListView\ListViewGeneric.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.5',
-  'unifunc' => 'content_691d481675e765_20329467',
+  'unifunc' => 'content_6920010b154fa8_36719100',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -24,7 +24,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:themes/SuiteP/include/ListView/ListViewPaginationBottom.tpl' => 1,
   ),
 ),false)) {
-function content_691d481675e765_20329467 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6920010b154fa8_36719100 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.sugar_include.php','function'=>'smarty_function_sugar_include',),1=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.sugar_getjspath.php','function'=>'smarty_function_sugar_getjspath',),2=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\modifier.replace.php','function'=>'smarty_modifier_replace',),3=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.counter.php','function'=>'smarty_function_counter',),4=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.sugar_translate.php','function'=>'smarty_function_sugar_translate',),5=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.sugar_ajax_url.php','function'=>'smarty_function_sugar_ajax_url',),6=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.sugar_evalcolumn_old.php','function'=>'smarty_function_sugar_evalcolumn_old',),7=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.sugar_field.php','function'=>'smarty_function_sugar_field',),8=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.sugar_getimage.php','function'=>'smarty_function_sugar_getimage',),));
 echo smarty_function_sugar_include(array('include'=>$_smarty_tpl->tpl_vars['includes']->value),$_smarty_tpl);?>
 

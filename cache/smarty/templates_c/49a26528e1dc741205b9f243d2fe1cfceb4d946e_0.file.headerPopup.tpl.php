@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.5.5, created on 2025-11-19 04:31:17
+/* Smarty version 4.5.5, created on 2025-11-21 06:04:57
   from 'C:\wamp64\www\final_test_suiteCRM\include\SearchForm\tpls\headerPopup.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.5',
-  'unifunc' => 'content_691d4815a29792_37941983',
+  'unifunc' => 'content_69200109b34835_75947286',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_691d4815a29792_37941983 (Smarty_Internal_Template $_smarty_tpl) {
+function content_69200109b34835_75947286 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="searchDialog" class="modal fade modal-search" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-lg">
         <div class="modal-content">

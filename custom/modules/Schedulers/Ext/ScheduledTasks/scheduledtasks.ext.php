@@ -55,7 +55,7 @@
    $GLOBALS['log']->fatal("More than 5 leads created today. total leads created today are = ". $count);
     }
 
-   $GLOBALS['log']->fatal("Acount created today = ". $count);
+   $GLOBALS['log']->fatal("Leads created today = ". $count);
    $GLOBALS['log']->fatal("############## daily leads report job end ###############");
 
 

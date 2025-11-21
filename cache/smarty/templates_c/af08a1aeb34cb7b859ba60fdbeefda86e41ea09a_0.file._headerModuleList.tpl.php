@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.5, created on 2025-11-19 04:31:10
+/* Smarty version 4.5.5, created on 2025-11-21 06:04:51
   from 'C:\wamp64\www\final_test_suiteCRM\themes\SuiteP\tpls\_headerModuleList.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.5',
-  'unifunc' => 'content_691d480e55afb1_79275483',
+  'unifunc' => 'content_692001039de291_92012737',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'af08a1aeb34cb7b859ba60fdbeefda86e41ea09a' => 
     array (
       0 => 'C:\\wamp64\\www\\final_test_suiteCRM\\themes\\SuiteP\\tpls\\_headerModuleList.tpl',
-      1 => 1763484856,
+      1 => 1763559004,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_691d480e55afb1_79275483 (Smarty_Internal_Template $_smarty_tpl) {
+function content_692001039de291_92012737 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.sugar_link.php','function'=>'smarty_function_sugar_link',),1=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.sugar_translate.php','function'=>'smarty_function_sugar_translate',),2=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\modifier.replace.php','function'=>'smarty_modifier_replace',),3=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.suite_check_access.php','function'=>'smarty_function_suite_check_access',),4=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.counter.php','function'=>'smarty_function_counter',),5=>array('file'=>'C:\\wamp64\\www\\final_test_suiteCRM\\include\\Smarty\\plugins\\function.search_controller.php','function'=>'smarty_function_search_controller',),));
 ?>
 <!--Start Responsive Top Navigation Menu -->
@@ -96,6 +96,7 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
                 <?php
 }
 $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
+                <li><a href="index.php?entryPoint=MyTimeEntryPoint">Quick Tools Mobile</a></li>
             </ul>
             <div id="mobileheader" class="mobileheader">
                 <div id="modulelinks" class="modulelinks">
@@ -248,6 +249,7 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
                     <li class="navbar-brand-container">
                             <a class="navbar-brand with-home-icon suitepicon suitepicon-action-home" href="index.php?module=Home&action=index"></a>
                     </li>
+                
                     <?php $_smarty_tpl->_assignInScope('groupSelected', false);?>
                     <?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['moduleTopMenu']->value, 'module', false, 'name', 'moduleList', array (
@@ -532,6 +534,9 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
                     <?php
 }
 $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
+                </ul>
+                <ul class="nav navbar">
+                    <li class="topnav show"><a href="index.php?entryPoint=MyTimeEntryPoint"><strong>Quick Tools</strong></a></li>
                 </ul>
                             
                 <?php echo '<script'; ?>

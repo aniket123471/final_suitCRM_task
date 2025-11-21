@@ -1,5 +1,5 @@
 <?php
-// created: 2025-11-19 04:30:31
+// created: 2025-11-21 05:26:16
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -206,4 +206,5 @@ $mod_strings = array (
   'LBL_LOADING' => 'Loading',
   'LBL_EDIT_INLINE' => 'Edit',
   'LBL_FP_EVENTS_LEADS_1_FROM_FP_EVENTS_TITLE' => 'Events',
+  'LBL_FOLLOWUP_DATE' => 'Follow Up Date',
 );

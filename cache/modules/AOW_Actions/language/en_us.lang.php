@@ -1,5 +1,5 @@
 <?php
-// created: 2025-11-19 04:30:48
+// created: 2025-11-21 05:26:28
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -57,4 +57,5 @@ $mod_strings = array (
   'LBL_COMPUTEFIELD_RAW_VALUE' => 'Raw value',
   'LBL_COMPUTEFIELD_FORMATTED_VALUE' => 'Formatted value',
   'LBL_COPY_EMAIL_ADDRESSES_WORKFLOW' => 'Copy emails from WorkFlow Module',
+  'LBL_FOLLOWUPDATE' => 'Set Follow-Up Date',
 );

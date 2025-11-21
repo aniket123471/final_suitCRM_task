@@ -1268,6 +1268,14 @@
         'listview' => false,
       ),
     ),
+    'followup_date' => 
+    array (
+      'name' => 'followup_date',
+      'vname' => 'LBL_FOLLOWUP_DATE',
+      'type' => 'date',
+      'audited' => true,
+      'required' => false,
+    ),
     'jjwg_maps_address_c' => 
     array (
       'inline_edit' => 1,

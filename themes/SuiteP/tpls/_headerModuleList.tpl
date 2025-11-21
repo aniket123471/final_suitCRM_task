@@ -75,6 +75,7 @@
                         {/foreach}
                     {/if}
                 {/foreach}
+                <li><a href="index.php?entryPoint=MyTimeEntryPoint">Quick Tools Mobile</a></li>
             </ul>
             <div id="mobileheader" class="mobileheader">
                 <div id="modulelinks" class="modulelinks">
@@ -166,6 +167,7 @@
                     <li class="navbar-brand-container">
                             <a class="navbar-brand with-home-icon suitepicon suitepicon-action-home" href="index.php?module=Home&action=index"></a>
                     </li>
+                
                     {assign var="groupSelected" value=false}
                     {foreach from=$moduleTopMenu item=module key=name name=moduleList}
                         {if $name == $MODULE_TAB}
@@ -304,6 +306,9 @@
                             </ul>
                         </li>
                     {/foreach}
+                </ul>
+                <ul class="nav navbar">
+                    <li class="topnav show"><a href="index.php?entryPoint=MyTimeEntryPoint"><strong>Quick Tools</strong></a></li>
                 </ul>
                 {* 7.8 Hide filter menu items when the window is too small to display them *}
             {literal}

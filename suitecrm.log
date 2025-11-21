@@ -49,3 +49,188 @@ Wed Nov 19 04:13:13 2025 [22876][1][FATAL] Acount created today = 0
 Wed Nov 19 04:13:13 2025 [22876][1][FATAL] ############## daily leads report job end ###############
 Wed Nov 19 04:31:42 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
 Wed Nov 19 04:31:42 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: ImportNew
+Wed Nov 19 05:07:07 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:07:31 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:07:39 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:07:50 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:07:50 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:07:51 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:07:55 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:07:59 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:08:39 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:09:39 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:09:40 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:09:41 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:09:41 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:09:41 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:10:04 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:10:05 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:10:05 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:10:06 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:10:52 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:11:19 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:11:20 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:11:20 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:11:36 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:11:55 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:12:10 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:12:33 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:13:02 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:14:03 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:14:18 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:16:44 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:17:19 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:17:45 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:18:10 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 05:38:50 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 05:38:50 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: HelloWorld
+Wed Nov 19 05:39:17 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 05:39:17 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: HelloWorld
+Wed Nov 19 05:41:17 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 05:41:17 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: HelloWorld
+Wed Nov 19 05:41:18 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 05:41:18 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: HelloWorld
+Wed Nov 19 05:41:18 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 05:41:18 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: HelloWorld
+Wed Nov 19 05:41:18 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 05:41:18 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: HelloWorld
+Wed Nov 19 05:41:18 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 05:41:18 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: HelloWorld
+Wed Nov 19 05:41:19 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 05:41:19 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: HelloWorld
+Wed Nov 19 05:41:30 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 05:41:30 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: HelloWorld
+Wed Nov 19 05:57:47 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 05:57:47 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: HelloWorld
+Wed Nov 19 05:57:48 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 05:57:48 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: HelloWorld
+Wed Nov 19 05:57:49 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 05:57:49 2025 [28700][1][FATAL] Exception in Controller: There is no action by that name: HelloWorld
+Wed Nov 19 06:00:18 2025 [28700][1][FATAL] some controler text
+Wed Nov 19 09:44:31 2025 [28700][1][FATAL] Mysqli_query failed.
+Wed Nov 19 09:44:31 2025 [28700][1][FATAL]  Query Failed: INSERT INTO leads_cstm (id_c ,jjwg_maps_lat_c ,jjwg_maps_lng_c ) VALUES ('b95dda13-e668-be63-9a50-691d9149954a' ,0 ,0 ): MySQL error 1062: Duplicate entry 'b95dda13-e668-be63-9a50-691d9149954a' for key 'leads_cstm.PRIMARY'
+Wed Nov 19 09:44:31 2025 [28700][1][FATAL] Mysqli_query failed.
+Wed Nov 19 09:44:31 2025 [28700][1][FATAL] Error inserting into table: leads: Query Failed: INSERT INTO leads (id,date_entered,date_modified,modified_user_id,created_by,description,deleted,assigned_user_id,salutation,first_name,last_name,title,department,do_not_call,phone_mobile,phone_work,phone_fax,primary_address_street,primary_address_city,primary_address_state,primary_address_postalcode,primary_address_country,alt_address_street,alt_address_city,alt_address_state,alt_address_postalcode,alt_address_country,converted,refered_by,lead_source,lead_source_description,status,status_description,account_name,contact_id,account_id,opportunity_id,opportunity_amount,campaign_id,website)
+					VALUES ('b95dda13-e668-be63-9a50-691d9149954a','2025-11-19 09:44:31','2025-11-19 09:44:31','1','1','',0,'1','Mr.','date','lead','','',0,'','','','','','','','','','','','','',0,'','','','New','','','','','','','','http://'): MySQL error 1062: Duplicate entry 'b95dda13-e668-be63-9a50-691d9149954a' for key 'leads.PRIMARY'
+Wed Nov 19 09:44:31 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 09:44:31 2025 [28700][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Wed Nov 19 10:53:42 2025 [28700][1][FATAL] workflow running
+Wed Nov 19 11:05:38 2025 [28700][1][FATAL] workflow running
+Wed Nov 19 11:11:44 2025 [28700][1][FATAL] Mysqli_query failed.
+Wed Nov 19 11:11:44 2025 [28700][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE leads   add COLUMN `followup_date` date  NULL: MySQL error 1060: Duplicate column name 'followup_date'
+Wed Nov 19 11:11:44 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 11:11:44 2025 [28700][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Wed Nov 19 11:11:49 2025 [28700][1][FATAL] Mysqli_query failed.
+Wed Nov 19 11:11:49 2025 [28700][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE leads   add COLUMN `followup_date` date  NULL: MySQL error 1060: Duplicate column name 'followup_date'
+Wed Nov 19 11:11:49 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 11:11:49 2025 [28700][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Wed Nov 19 11:14:25 2025 [28700][1][FATAL] workflow running
+Wed Nov 19 11:14:25 2025 [28700][1][FATAL] Mysqli_query failed.
+Wed Nov 19 11:14:25 2025 [28700][1][FATAL]  Query Failed: INSERT INTO leads_cstm (id_c ,jjwg_maps_lat_c ,jjwg_maps_lng_c ) VALUES ('4c3803c3-4e45-c615-c6b6-691da62192c6' ,0 ,0 ): MySQL error 1062: Duplicate entry '4c3803c3-4e45-c615-c6b6-691da62192c6' for key 'leads_cstm.PRIMARY'
+Wed Nov 19 11:14:25 2025 [28700][1][FATAL] Mysqli_query failed.
+Wed Nov 19 11:14:25 2025 [28700][1][FATAL] Error inserting into table: leads: Query Failed: INSERT INTO leads (id,date_entered,date_modified,modified_user_id,created_by,description,deleted,assigned_user_id,salutation,first_name,last_name,title,department,do_not_call,phone_mobile,phone_work,phone_fax,primary_address_street,primary_address_city,primary_address_state,primary_address_postalcode,primary_address_country,alt_address_street,alt_address_city,alt_address_state,alt_address_postalcode,alt_address_country,converted,refered_by,lead_source,lead_source_description,status,status_description,account_name,contact_id,account_id,opportunity_id,opportunity_amount,campaign_id,website,followup_date)
+					VALUES ('4c3803c3-4e45-c615-c6b6-691da62192c6','2025-11-19 11:14:25','2025-11-19 11:14:25','1','1','',0,'1','Mr.','date','lead 010','','',0,'','','','','','','','','','','','','',0,'','','','New','','','','','','','','http://','2025-11-22'): MySQL error 1062: Duplicate entry '4c3803c3-4e45-c615-c6b6-691da62192c6' for key 'leads.PRIMARY'
+Wed Nov 19 11:14:25 2025 [28700][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Wed Nov 19 11:14:25 2025 [28700][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Wed Nov 19 11:20:24 2025 [28700][1][FATAL] workflow running
+Wed Nov 19 11:27:57 2025 [28700][1][FATAL] workflow running . 1
+Wed Nov 19 11:34:37 2025 [28700][1][FATAL] workflow running . 1
+Thu Nov 20 04:34:11 2025 [5564][1][FATAL] workflow running . 1
+Thu Nov 20 04:37:52 2025 [5564][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Thu Nov 20 04:37:52 2025 [5564][1][FATAL] Exception in Controller: There is no action by that name: index
+Thu Nov 20 04:41:43 2025 [5564][-none-][FATAL] Received JSON:
+Thu Nov 20 04:41:43 2025 [5564][-none-][FATAL] 
+Thu Nov 20 04:41:44 2025 [5564][-none-][FATAL] Received JSON:
+Thu Nov 20 04:41:44 2025 [5564][-none-][FATAL] 
+Thu Nov 20 04:43:12 2025 [5564][-none-][FATAL] REST ENTRYPOINT RECEIVED:
+Thu Nov 20 04:43:12 2025 [5564][-none-][FATAL] 
+Thu Nov 20 04:43:12 2025 [5564][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Nov 20 04:43:12 2025 [5564][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Thu Nov 20 04:43:55 2025 [5564][-none-][FATAL] REST ENTRYPOINT RECEIVED:
+Thu Nov 20 04:43:55 2025 [5564][-none-][FATAL] 
+Thu Nov 20 04:43:55 2025 [5564][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Nov 20 04:43:55 2025 [5564][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Thu Nov 20 04:47:08 2025 [5564][-none-][FATAL] REST ENTRYPOINT RECEIVED:
+Thu Nov 20 04:47:08 2025 [5564][-none-][FATAL] 
+Thu Nov 20 04:47:08 2025 [5564][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Nov 20 04:47:08 2025 [5564][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Thu Nov 20 04:53:48 2025 [5564][-none-][FATAL] LOGIN TEST RAW INPUT: 
+Thu Nov 20 04:53:48 2025 [5564][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Nov 20 04:53:49 2025 [5564][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Thu Nov 20 04:53:49 2025 [5564][-none-][FATAL] LOGIN RAW RESPONSE: {"name":"Invalid Login","number":10,"description":"Login attempt failed please check the username and password"}
+Thu Nov 20 04:54:41 2025 [5564][-none-][FATAL] LOGIN TEST RAW INPUT: 
+Thu Nov 20 04:54:41 2025 [5564][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Nov 20 04:54:41 2025 [5564][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Thu Nov 20 04:54:41 2025 [5564][-none-][FATAL] LOGIN RAW RESPONSE: {"name":"Invalid Login","number":10,"description":"Login attempt failed please check the username and password"}
+Thu Nov 20 04:56:13 2025 [5564][-none-][FATAL] LOGIN TEST RAW INPUT: 
+Thu Nov 20 04:56:14 2025 [5564][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Nov 20 04:56:14 2025 [5564][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Thu Nov 20 04:56:14 2025 [5564][-none-][FATAL] LOGIN RAW RESPONSE: {"name":"Invalid Login","number":10,"description":"Login attempt failed please check the username and password"}
+Thu Nov 20 05:00:56 2025 [5564][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Nov 20 05:00:56 2025 [5564][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Thu Nov 20 05:00:56 2025 [5564][-none-][FATAL] HASHED PASSWORD USED: d9b1d7db4cd6e70935368a1efb10e377
+Thu Nov 20 05:00:56 2025 [5564][-none-][FATAL] REST LOGIN RAW RESPONSE: {"name":"Invalid Login","number":10,"description":"Login attempt failed please check the username and password"}
+Thu Nov 20 05:18:47 2025 [26572][1][FATAL] ############## daily Accounts report job started ###############
+Thu Nov 20 05:18:47 2025 [26572][1][FATAL] Acount created today = 0
+Thu Nov 20 05:18:47 2025 [26572][1][FATAL] ############## daily Accounts report job end ###############
+Thu Nov 20 05:18:47 2025 [26572][1][FATAL] ############## daily leads report job started ###############
+Thu Nov 20 05:18:47 2025 [26572][1][FATAL] Acount created today = 1
+Thu Nov 20 05:18:47 2025 [26572][1][FATAL] ############## daily leads report job end ###############
+Thu Nov 20 05:20:38 2025 [5564][1][FATAL] workflow running . 1
+Thu Nov 20 05:26:23 2025 [5564][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Nov 20 05:26:23 2025 [5564][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Thu Nov 20 05:26:23 2025 [5564][-none-][FATAL] HASHED PASSWORD USED: d9b1d7db4cd6e70935368a1efb10e377
+Thu Nov 20 05:26:23 2025 [5564][-none-][FATAL] REST LOGIN RAW RESPONSE: {"name":"Invalid Login","number":10,"description":"Login attempt failed please check the username and password"}
+Thu Nov 20 05:26:59 2025 [5564][-none-][FATAL] HASHED PASSWORD USED: 202cb962ac59075b964b07152d234b70
+Thu Nov 20 05:26:59 2025 [5564][-none-][FATAL] REST LOGIN RAW RESPONSE: {"id":"gt9a1v1oc701d2l93mkeo01n3k","module_name":"Users","name_value_list":{"user_id":{"name":"user_id","value":"1"},"user_name":{"name":"user_name","value":"admin"},"user_language":{"name":"user_language","value":"en_us"},"user_currency_id":{"name":"user_currency_id","value":"-99"},"user_is_admin":{"name":"user_is_admin","value":true},"user_default_team_id":{"name":"user_default_team_id","value":null},"user_default_dateformat":{"name":"user_default_dateformat","value":"m\/d\/Y"},"user_default_timeformat":{"name":"user_default_timeformat","value":"h:i a"},"user_number_separator":{"name":"user_number_separator","value":","},"user_decimal_separator":{"name":"user_decimal_separator","value":"."},"mobile_max_list_entries":{"name":"mobile_max_list_entries","value":null},"mobile_max_subpanel_entries":{"name":"mobile_max_subpanel_entries","value":null},"user_currency_name":{"name":"user_currency_name","value":"US Dollars"}}}
+Thu Nov 20 05:37:38 2025 [5564][1][FATAL] workflow running . 1
+Thu Nov 20 05:37:55 2025 [5564][1][FATAL] workflow running . 1
+Thu Nov 20 05:53:27 2025 [5564][1][FATAL] some controler text
+Thu Nov 20 06:23:01 2025 [20448][1][FATAL] ############## daily Accounts report job started ###############
+Thu Nov 20 06:23:01 2025 [20448][1][FATAL] Acount created today = 1
+Thu Nov 20 06:23:01 2025 [20448][1][FATAL] ############## daily Accounts report job end ###############
+Thu Nov 20 06:23:01 2025 [20448][1][FATAL] ############## daily leads report job started ###############
+Thu Nov 20 06:23:01 2025 [20448][1][FATAL] Leads created today = 4
+Thu Nov 20 06:23:01 2025 [20448][1][FATAL] ############## daily leads report job end ###############
+Thu Nov 20 06:24:57 2025 [5564][1][FATAL] workflow running . 1
+Thu Nov 20 06:25:11 2025 [5564][1][FATAL] workflow running . 1
+Thu Nov 20 06:25:20 2025 [20040][1][FATAL] ############## daily Accounts report job started ###############
+Thu Nov 20 06:25:20 2025 [20040][1][FATAL] Acount created today = 1
+Thu Nov 20 06:25:20 2025 [20040][1][FATAL] ############## daily Accounts report job end ###############
+Thu Nov 20 06:25:20 2025 [20040][1][FATAL] ############## daily leads report job started ###############
+Thu Nov 20 06:25:20 2025 [20040][1][FATAL] More than 5 leads created today. total leads created today are = 6
+Thu Nov 20 06:25:20 2025 [20040][1][FATAL] Leads created today = 6
+Thu Nov 20 06:25:20 2025 [20040][1][FATAL] ############## daily leads report job end ###############
+Thu Nov 20 06:27:20 2025 [5564][1][FATAL] some controler text
+Thu Nov 20 06:27:36 2025 [5564][1][FATAL] some controler text
+Thu Nov 20 06:30:09 2025 [5564][1][FATAL] some controler text
+Thu Nov 20 06:37:44 2025 [5564][1][FATAL] workflow running . 1
+Thu Nov 20 11:18:16 2025 [5564][1][FATAL] workflow running . 1
+Thu Nov 20 12:18:30 2025 [5564][-none-][FATAL] weekly_leads
+Thu Nov 20 12:40:52 2025 [5564][1][FATAL] workflow running . 1
+Thu Nov 20 12:48:02 2025 [5564][-none-][FATAL] weekly_leads
+Fri Nov 21 04:17:52 2025 [11980][-none-][FATAL] weekly_leads_records
+Fri Nov 21 04:17:52 2025 [11980][-none-][FATAL] End:SugarWebServiceImplv4->lat_get_mobile_modules
+Fri Nov 21 04:18:25 2025 [11980][-none-][FATAL] weekly_leads_records
+Fri Nov 21 04:19:08 2025 [11980][-none-][FATAL] weekly_leads_records
+Fri Nov 21 04:19:25 2025 [11980][-none-][FATAL] weekly_leads_records
+Fri Nov 21 05:25:36 2025 [11980][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Fri Nov 21 05:25:36 2025 [11980][1][FATAL] Exception in Controller: There is no action by that name: index
+Fri Nov 21 05:26:01 2025 [11980][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Fri Nov 21 05:26:01 2025 [11980][1][FATAL] Exception in Controller: There is no action by that name: index
+Fri Nov 21 05:26:45 2025 [11980][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Fri Nov 21 05:26:45 2025 [11980][1][FATAL] Exception in Controller: There is no action by that name: index
+Fri Nov 21 05:27:03 2025 [11980][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Fri Nov 21 05:27:03 2025 [11980][1][FATAL] Exception in Controller: There is no action by that name: healthcheck
+Fri Nov 21 05:27:19 2025 [11980][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Fri Nov 21 05:27:19 2025 [11980][1][FATAL] Exception in Controller: There is no action by that name: healthcheck
+Fri Nov 21 05:40:37 2025 [11980][1][FATAL] some controler text
+Fri Nov 21 06:05:43 2025 [11980][1][FATAL] workflow running . 1
+Fri Nov 21 06:06:39 2025 [11980][-none-][FATAL] weekly_leads_records
+Fri Nov 21 06:06:39 2025 [11980][-none-][FATAL] End:SugarWebServiceImplv4->lat_get_mobile_modules
+Fri Nov 21 06:07:00 2025 [11980][-none-][FATAL] weekly_leads_records
+Fri Nov 21 06:07:17 2025 [11980][-none-][FATAL] weekly_leads_records
+Fri Nov 21 06:13:15 2025 [11980][-none-][FATAL] weekly_leads_records
+Fri Nov 21 06:14:35 2025 [11980][-none-][FATAL] weekly_leads_records
+Fri Nov 21 06:15:25 2025 [11980][1][FATAL] Exception handling in C:\wamp64\www\final_test_suiteCRM\include\MVC\Controller\SugarController.php:397
+Fri Nov 21 06:15:25 2025 [11980][1][FATAL] Exception in Controller: There is no action by that name: index
